@@ -12,7 +12,8 @@ Sub main_program()
 '           a.  number_sheets_in_wb()
 '           b.  number_rows_in_sheet(i As Long)
 '           c.  unique_ticker_labels_count(sh As Integer, cols As Integer)
-'           d.  dict_max(sh As Integer, col_max As Long, col_label As Long, Optional pos_neg As Integer = 1)
+'           d.  dict_max(sh As Integer, col_max As Long, col_label As Long, 
+'                         Optional pos_neg As Integer = 1)
 '
 '
 '*************************************************************************
